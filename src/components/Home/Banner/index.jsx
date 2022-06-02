@@ -9,7 +9,7 @@ const Banner = ({ handleScrollMenu }) => (
       <Logo />
       <div className='content-main'>
         <h1>Delicious food for your cravings</h1>
-        <p>We made fresh and healthy meals with different recipes</p>
+        <p>We make fresh and healthy meals with different recipes</p>
         <button onClick={handleScrollMenu}>
           View Menu <i className='fas fa-long-arrow-alt-right'></i>
         </button>
